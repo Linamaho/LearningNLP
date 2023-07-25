@@ -16,7 +16,7 @@ NLP has become increasingly important in recent years as the amount of natural l
 
 ### How to use it?
 
-You can download the notebook (the .ipynb file) and run it directly on your Google Colab account.
+You can open the notebook (the .ipynb file) directly on your Google Colab account.
 Also, if you are a Jupyter and Python user, you can download the notebook and run it directly on your computer.
 
 
