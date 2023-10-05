@@ -38,3 +38,6 @@ Ejemplo de cómo encontrar palabras y frases en un texto usando la función Matc
 
 ### ¿Cómo usarlo?
 Puede abrir el cuaderno (el archivo .ipynb) directamente en su cuenta de Google Colab. Además, si es usuario de Jupyter y Python, puede descargar el cuaderno y ejecutarlo directamente en su computadora.
+
+## Juego propuesto durante la charla para WiDS
+Quieres jugar? Perfecto. Debido a razones diversas no me será posible compartir la transcripción de la charla. Pero te propongo continuar el juego, con la misión de encontrar el numero de veces que la frase "inteligencia artificial" es mencionada en el archivo llamado Texto en formato txt que encontrarás en los archivos de este repositorio. Una vez sepas la respuesta, contactame a mi LinkedIn (linamaho) y te diré si eres la primera persona en contactarme con la respuesta correcta. 
